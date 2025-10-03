@@ -15,7 +15,7 @@ function sockMerchant(n, ar) {
     }
   }
 
-  return pairs;
+  return pairs;
 }
 
 let result1 = sockMerchant(n1,ar1);
